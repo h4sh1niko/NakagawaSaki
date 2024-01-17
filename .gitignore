@@ -1,1 +1,6 @@
 20231011/Academy.txt
+/.vscode
+*.exe
+*.ilk
+*.obj
+*.pdb
